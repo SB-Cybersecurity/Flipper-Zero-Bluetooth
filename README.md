@@ -1,2 +1,3 @@
 # Flipper-Zero-Bluetooth
-Flipper Zero Bluetoot
+Flipper Zero Bluetooth Spam Data or Files
+(From Flipper Zero Xtreme)
