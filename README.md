@@ -1,3 +1,3 @@
-# Bluetooth
-**Flipper Zero Bluetooth Spam Data or Files**
-(From Flipper Zero Xtreme)
+# Bluetooth Spam for **ESP32**
+
+This **Arduino IDE** code is specifically for *Samsung* and *Galaxy* devices.
