@@ -1,5 +1,5 @@
 # ESP32 Samsung Galaxy Watch BLE Spoofer
-Dieses Projekt demonstriert, wie ein **ESP32 Bluetooth Low Energy (BLE)** nutzt, um sich als eine Samsung Galaxy Watch auszugeben. Das Besondere an diesem Code ist die dynamische Änderung der **MAC-Adresse** und des Gerätenamens in kurzen Intervallen.
+Dieses Projekt demonstriert, wie ein **ESP32 Bluetooth Low Energy (BLE)** nutzt, um sich als eine **Samsung Galaxy Pair Watch** auszugeben. Das Besondere an diesem Code ist die dynamische Änderung der **MAC-Adresse** und des Gerätenamens in kurzen Intervallen.
 
 # 🚀 Funktionen
 **Dynamisches MAC-Spoofing:** Generiert bei jedem Durchlauf eine neue, gültige Random-Static **MAC-Adresse**.
@@ -22,11 +22,9 @@ Dieses Projekt demonstriert, wie ein **ESP32 Bluetooth Low Energy (BLE)** nutzt,
 
 **Standard-Bibliotheken** (im Core enthalten):
 
-----------------
 **BLEDevice.h**
 **esp_bt_main.h**
 **esp_mac.h**
-----------------
 
 # 💻 Funktionsweise des Codes
 Der Kern des Projekts liegt in der Funktion **updateIdentity():**
