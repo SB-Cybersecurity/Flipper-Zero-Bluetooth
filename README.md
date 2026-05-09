@@ -22,11 +22,11 @@ Dieses Projekt demonstriert, wie ein **ESP32 Bluetooth Low Energy (BLE)** nutzt,
 
 **Standard-Bibliotheken** (im Core enthalten):
 
-**BLEDevice.h**
+# BLEDevice.h
 
-**esp_bt_main.h**
+# esp_bt_main.h
 
-**esp_mac.h**
+# esp_mac.h
 
 # 💻 Funktionsweise des Codes
 Der Kern des Projekts liegt in der Funktion **updateIdentity():**
